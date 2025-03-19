@@ -1,3 +1,4 @@
+Super Trunfo by Gildasio
 #include <stdio.h>
 
 int main() {
